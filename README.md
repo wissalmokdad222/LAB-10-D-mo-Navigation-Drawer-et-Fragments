@@ -21,4 +21,4 @@ L'objectif était de transformer une activité de base en une interface moderne 
 5.  **Interactivité** : Ajout d'un `ActionBarDrawerToggle` pour synchroniser l'icône "hamburger" et gestion du bouton retour.
 
 ## Demonstration
-![](https://github.com/user-attachments/assets/af0f1a2a-6e73-4cfb-b90f-ce748f278129)
+![video](https://github.com/user-attachments/assets/af0f1a2a-6e73-4cfb-b90f-ce748f278129)
