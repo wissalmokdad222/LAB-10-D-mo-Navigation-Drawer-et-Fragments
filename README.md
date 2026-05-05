@@ -1,8 +1,8 @@
-# NavigationDrawerDemo 📱
+# NavigationDrawerDemo 
 
 Ce projet est une application Android simple qui illustre comment mettre en place un **Navigation Drawer** (menu latéral) avec une navigation personnalisée entre plusieurs fragments.
 
-## 📝 Résumé du Projet
+##  Résumé du Projet
 
 L'objectif était de transformer une activité de base en une interface moderne avec un tiroir de navigation fonctionnel permettant de basculer entre différents écrans dynamiquement.
 
@@ -20,7 +20,5 @@ L'objectif était de transformer une activité de base en une interface moderne 
     *   Utilisation du `FragmentManager` dans `MainActivity.java` pour remplacer le contenu au clic sur le menu.
 5.  **Interactivité** : Ajout d'un `ActionBarDrawerToggle` pour synchroniser l'icône "hamburger" et gestion du bouton retour.
 
-## 🚀 Comment tester
-1. Compilez et lancez l'application.
-2. Ouvrez le menu latéral (swipe ou clic sur l'icône).
-3. Naviguez entre les différents fragments pour voir les changements de couleurs et la liste.
+## Demonstration
+![](https://github.com/user-attachments/assets/af0f1a2a-6e73-4cfb-b90f-ce748f278129)
